@@ -49,6 +49,7 @@ MODULE Days;
        w[i].next := w[j];
        j := i; dec(j);
        w[i].prev := w[j];
+       INC(i)
      UNTIL i > 6;
  END init;
 
