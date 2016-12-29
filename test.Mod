@@ -1,11 +1,13 @@
-MODULE test.
+MODULE test;
 
-IMPORT Day;
+IMPORT Days;
 
-VAR today: Days.Day;
+VAR today, yesterday, tomorrow: Days.Day;
 
 BEGIN
   today := Days.mon; (*init*)
 
+  yesterday := Days.Prev(today);
+  tomorrow := Days.Next(today);
 
 END test.
