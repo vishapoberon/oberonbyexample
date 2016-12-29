@@ -1,14 +1,15 @@
 MODULE Days;
 
  TYPE 
- Day* = POINTER TO DayDesc;
- DayDesc = RECORD
-   next*, prev* : Day;
- END DayDesc;
- TYPE Week = ARRAY 7 OF Day;
+   Day* = POINTER TO DayDesc;
+   DayDesc = RECORD
+   next, prev : Day
+   END;
+   Week = ARRAY 7 OF Day;
 
- VAR sun*, mon*, tue*, wed*, thu*, fri*, sat* : Day;
- week: ARRAY 7 OF Day;
+ VAR 
+   sun*, mon*, tue*, wed*, thu*, fri*, sat* : Day;
+   week: Week;
 
  PROCEDURE Next*(d : Day): Day;
  BEGIN
