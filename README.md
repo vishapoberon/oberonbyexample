@@ -24,5 +24,5 @@ Check out the [hello-world](https://github.com/vishaps/oberonbyexample/tree/mast
 - [Procedures](https://github.com/vishaps/oberonbyexample/tree/master/procedures)
 	- [Procedure](https://github.com/vishaps/oberonbyexample/tree/master/procedures/procedure)
 	- [Functions](https://github.com/vishaps/oberonbyexample/tree/master/procedures/function-procedure)
-	- [VAR-Parameters](https://github.com/vishaps/oberonbyexample/tree/master/procedures/var-parameters)
+	- [VAR-Parameters](https://github.com/vishaps/oberonbyexample/tree/master/procedures/var-parameter)
 - TODO
