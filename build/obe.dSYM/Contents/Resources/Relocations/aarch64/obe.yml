@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     obe
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E2C, symSize: 0x7C }
+  - { offsetInCU: 0x33, offset: 0x33, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E2C, symSize: 0x7C }
+  - { offsetInCU: 0x58, offset: 0x58, size: 0x8, addend: 0x0, symName: _main.m, symObjAddr: 0xA00, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0xA6, offset: 0xA6, size: 0x8, addend: 0x0, symName: _obe_CheckDirectories, symObjAddr: 0x7C, symBinAddr: 0x100003EA8, symSize: 0x30 }
+  - { offsetInCU: 0xCA, offset: 0xCA, size: 0x8, addend: 0x0, symName: _obe_GenIndex, symObjAddr: 0xAC, symBinAddr: 0x100003ED8, symSize: 0x58 }
+...

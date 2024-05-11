@@ -8,21 +8,21 @@ Oberon By Example is a hands-on introduction to Oberon-2 using examples.
 
 This repository is under heavy modification to make it better for beginners.
 
-To start, make sure you have [Vishap Oberon Compiler](https://github.com/vishaps/voc)
+To start, make sure you have [Vishap Oberon Compiler](https://github.com/vishapoberon/voc)
 
-Check out the [hello-world](https://github.com/vishaps/oberonbyexample/tree/master/hello-world) example or browse the full list below.
+Check out the [hello-world](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/hello-world) example or browse the full list below.
 
-- [Hello World](https://github.com/vishaps/oberonbyexample/tree/master/hello-world)
-- [Types](https://github.com/vishaps/oberonbyexample/tree/master/value-types)
-- [Variables](https://github.com/vishaps/oberonbyexample/tree/master/variables)
-- [Constants](https://github.com/vishaps/oberonbyexample/tree/master/constants)
-- [For](https://github.com/vishaps/oberonbyexample/tree/master/for)
-- [While](https://github.com/vishaps/oberonbyexample/tree/master/while)
-- [If/Else](https://github.com/vishaps/oberonbyexample/tree/master/ifelse)
-- [Case](https://github.com/vishaps/oberonbyexample/tree/master/case)
-- [Arrays](https://github.com/vishaps/oberonbyexample/tree/master/arrays)
-- [Procedures](https://github.com/vishaps/oberonbyexample/tree/master/procedures)
-	- [Procedure](https://github.com/vishaps/oberonbyexample/tree/master/procedures/procedure)
-	- [Functions](https://github.com/vishaps/oberonbyexample/tree/master/procedures/function-procedure)
-	- [VAR-Parameters](https://github.com/vishaps/oberonbyexample/tree/master/procedures/var-parameter)
+- [Hello World](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/hello-world)
+- [Types](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/value-types)
+- [Variables](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/variables)
+- [Constants](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/constants)
+- [For](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/for)
+- [While](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/while)
+- [If/Else](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/ifelse)
+- [Case](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/case)
+- [Arrays](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/arrays)
+- [Procedures](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/procedures)
+	- [Procedure](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/procedures/procedure)
+	- [Functions](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/procedures/function-procedure)
+	- [VAR-Parameters](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/procedures/var-parameter)
 - TODO
